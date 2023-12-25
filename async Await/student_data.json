@@ -1,0 +1,17 @@
+[
+    {
+        "name":"kamlesh kumar",
+        "age":23,
+        "city":"bihar"
+    },
+    {
+        "name":"amlesh kumar",
+        "age":18,
+        "city":"sheohar"
+    },
+    {
+        "name":"navlesh kumar",
+        "age":15,
+        "city":"rohua"
+    }
+]
